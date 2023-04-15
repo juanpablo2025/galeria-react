@@ -1,5 +1,5 @@
 #pokedex {
-	display: flexbox;
+	display: grid;
 
 	align-items: center;
 	margin-top: 5px;
@@ -12,22 +12,23 @@
 
 
 	width: 13cm;
-
 	margin-left: auto;
 	margin-right: auto;
+
+
 
 }
 
 #pokedescripcion {
 
-	background-color: lightpink;
+	background-color: rgb(247, 212, 208);
 
 
 }
 
 .navbar {
 
-	background-color: lightsalmon;
+	background-color: rgb(253, 182, 154);
 	overflow: hidden;
 }
 
@@ -80,7 +81,7 @@
 #pokename {
 	text-align: center;
 
-	background-color: rgb(247, 212, 208);
+	background-color: lightpink;
 	font-size: x-large;
 	font-family: cursive;
 }
